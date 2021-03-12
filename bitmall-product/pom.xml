@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>com.iat</groupId>
-		<artifactId>guli-mall</artifactId>
+		<artifactId>bitmall</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>com.iat</groupId>
